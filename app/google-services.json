@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024733823148",
+    "project_id": "rmaprojekt-b3202",
+    "storage_bucket": "rmaprojekt-b3202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024733823148:android:dd210e4ca7a0e94b515f09",
+        "android_client_info": {
+          "package_name": "com.example.rmaprojekt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKJ61KajGZFr76G5VH29mirZ4d06oauE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
