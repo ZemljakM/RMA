@@ -76,6 +76,25 @@ dependencies {
     implementation("androidx.compose.material:material-icons-core:1.0.5")
     implementation("androidx.compose.material:material-icons-extended:1.0.5")
 
+    // ZXing library for QR code scanning
+    implementation("com.journeyapps:zxing-android-embedded:4.3.0")
+    implementation("com.google.zxing:core:3.4.1")
+
+
+    implementation("com.google.android.gms:play-services-location:17.0.0")
+    implementation ("com.google.android.gms:play-services-maps:17.0.0")
+    implementation ("com.google.maps.android:maps-utils-ktx:0.2")
+
+
+    implementation (libs.androidx.navigation.compose)
+    implementation ("com.google.accompanist:accompanist-navigation-animation:0.23.1")
+
+    implementation("com.google.android.libraries.places:places:3.5.0")
+    implementation("com.google.android.gms:play-services-maps:18.2.0")
+    implementation("com.google.android.gms:play-services-location:21.3.0")
+
+    implementation ("com.squareup.retrofit2:retrofit:2.7.1")
+    implementation ("com.squareup.retrofit2:converter-gson:2.7.1")
 
 
 }
